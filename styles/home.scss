@@ -93,3 +93,8 @@ body {
   padding: 0 10px;
   text-decoration: none;
 }
+
+.limited-width {
+  display: block;
+  max-width: 60%;
+}
